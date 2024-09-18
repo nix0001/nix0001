@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Nick.
-
+A student in PUP - Sta. Mesa
+I am currently learning the CS50 Hardvard Course.
+How to reach me: nickvinasoy@gmail.com
+Pronouns: He/him
+Fun Fact: I like reading self-improvement books and comics.
 <!--
 **nix0001/nix0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
