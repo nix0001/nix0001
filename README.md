@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Nick.
-A student in PUP - Sta. Mesa
-I am currently learning the CS50 Hardvard Course.
+A BSIT student in PUP - Sta. Mesa
 How to reach me: nickvinasoy@gmail.com
 Pronouns: He/him
 Fun Fact: I like reading self-improvement books and comics.
