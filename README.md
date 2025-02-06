@@ -2,7 +2,6 @@
 A BSIT student in PUP - Sta. Mesa
 How to reach me: nickvinasoy@gmail.com
 Pronouns: He/him
-Fun Fact: I like reading self-improvement books and comics.
 <!--
 **nix0001/nix0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
