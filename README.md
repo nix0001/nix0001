@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Nick.
+## Hi there 👋
 A BSIT student in PUP - Sta. Mesa
-How to reach me: nickvinasoy@gmail.com
 
 <!--
 **nix0001/nix0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
